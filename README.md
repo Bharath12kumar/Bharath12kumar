@@ -1,88 +1,49 @@
-<h1 align="center">Hi 👋, I'm Bharath Kumar</h1>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<h3 align="center">
-Aspiring Data Engineer | SQL | Python | ETL | PySpark
-</h3>
-
----
-
-## 🚀 About Me
-
-- 💼 Working as an Implementation Engineer in Banking Domain
-- 📊 Skilled in SQL, Python, ETL Concepts & Data Validation
-- 🌱 Currently learning Apache Spark, Kafka & Azure Data Engineering
-- ⚡ Interested in Data Pipelines, Distributed Systems & Cloud Technologies
-- 🔍 Passionate about solving real-world data engineering problems
-
----
-
-## 🛠️ Tech Stack
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure"/>
-
-</div>
-
----
-
-## 📂 Featured Projects
-
-### 🔹 Water Data Engineering Pipeline
-Built an end-to-end ETL pipeline using Python & SQL for data ingestion, transformation, validation, and reporting workflows.
-
-🔗 Repo:
-https://github.com/Bharath12kumar/water-data-engineering
-
----
-
-## 📈 GitHub Stats
+###
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bharath12kumar&show_icons=true&theme=tokyonight" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath12kumar&layout=compact&theme=tokyonight" height="160"/>
-
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-## 🔥 Current Learning
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- Apache Spark
-- PySpark Transformations
-- Azure Data Factory
-- Kafka Basics
-- Data Warehousing Concepts
-
----
-
-## 🤝 Connect With Me
+###
 
 <div align="left">
-
-<a href="https://www.linkedin.com/in/Bharath-kumar">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sbharath9444@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
