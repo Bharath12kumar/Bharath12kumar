@@ -19,6 +19,8 @@ Aspiring Data Engineer | SQL | Python | Airflow | ETL
 ## 🛠️ Tech Skills
 
 <div align="left">
+  
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40" alt="database"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
 <img width="12"/>
@@ -35,7 +37,6 @@ Aspiring Data Engineer | SQL | Python | Airflow | ETL
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="40" alt="airflow"/>
 <img width="12"/>
 
-<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40" alt="database"/>
 
 </div>
 
