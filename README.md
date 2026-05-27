@@ -97,7 +97,7 @@ https://github.com/Bharath12kumar/water-data-engineering
 
 <div align="left">
 
-<a href="https://www.linkedin.com/in/Bharath-kumar">
+<a href="https://https://www.linkedin.com/in/bharath-kumar-samanthula-1a99b9211/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
