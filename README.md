@@ -26,6 +26,9 @@ Aspiring Data Engineer | SQL | Python | Airflow | ETL
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql"/>
 <img width="12"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pyspark/pyspark-original.svg" height="40" alt="pyspark"/>
+<img width="12"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
 <img width="12"/>
 
